@@ -1,4 +1,12 @@
-## Hi there 👋
+[_Linkedin_](https://www.linkedin.com/in/andreduarteleite/) • [_Instagram_](https://www.instagram.com/andreduarteleite/)
+
+## Hi there 👋🏻
+
+My name is **Andre** (or _Andrew_ if you prefer 👀), Software Engineer at [Premiersoft](https://premiersoft.net/) / [Serasa Experian](https://www.serasa.com.br/limpa-nome-online), working with __Kotlin__ and __Flutter__ in mobile world.
+
+I'm a Senior Android Software Engineer looking for new challenges and project to contribute. Tech enthusiats and passionate with leadership / ownership mentality.
+
+Currently learinig:  Swift.
 
 <!--
 **AndreDLeite/AndreDLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
