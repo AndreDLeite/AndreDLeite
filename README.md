@@ -6,7 +6,7 @@ My name is **Andre** (or _Andrew_ if you prefer 👀), I'm a Sernior Software En
 
 I'm a Senior Android Software Engineer looking for new challenges and project to contribute. Tech enthusiats and passionate with leadership / ownership mentality.
 
-Currently learinig: 📱 KMP /  Swift
+Currently learnig: 📱 KMP /  Swift
 
 <!--
 **AndreDLeite/AndreDLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
