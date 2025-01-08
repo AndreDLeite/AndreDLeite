@@ -2,9 +2,9 @@
 
 ## Hi there 👋🏻
 
-My name is **Andre** (or _Andrew_ if you prefer 👀), I'm a Sernior Software Engineer at [Premiersoft](https://premiersoft.net/) / [Serasa Experian](https://www.serasa.com.br/limpa-nome-online), working with __Kotlin__ and __Flutter__ in mobile world.
+My name is **Andre** (or _Andrew_ if you prefer 👀), I'm a Senior Software Engineer at [Premiersoft](https://premiersoft.net/) / [Serasa Experian](https://www.serasa.com.br/limpa-nome-online), working with __Kotlin__ and __Flutter__ in mobile world.
 
-I'm a Senior Android Software Engineer looking for new challenges and project to contribute. Tech enthusiats and passionate with leadership / ownership mentality.
+I'm looking for new challenges and project to contribute. Tech enthusiats and passionate with leadership / ownership mentality.
 
 Currently learnig: 📱 KMP /  Swift
 
